@@ -24,15 +24,15 @@ if ($title == "Ingema - Ingenieria y Medio Ambiente") {
             <li><a href="/#clients">Nuestros Clientes</a></li>
           </ul>
         </li>
-        <li  class="dropdown"><a class="dropdown-toggle" href="../../Ingema/services.php"  data-toggle="dropdown">Nuestros Servicios</a>
+        <li  class="dropdown"><a class="dropdown-toggle" href="services.php"  data-toggle="dropdown">Nuestros Servicios</a>
           <ul class="dropdown-menu">
-            <li><a href="../../Ingema/services.php#demo-card--step1">Estudios Ambientales</a></li>
-            <li><a href="../../Ingema/services.php#demo-card--step2">Asesoramiento en Materia Jurídica</a></li>
-            <li><a href="../../Ingema/services.php#demo-card--step3">Asesoramiento en Materia de emisiones a la atmosfera</a></li>
-            <li><a href="../../Ingema/services.php#demo-card--step4">Asesoramiento en Materia de Vertidos</a></li>
-            <li><a href="../../Ingema/services.php#demo-card--step5">Asesoramiento Ambiental en RR.SS.</a></li>
-            <li><a href="../../Ingema/services.php#demo-card--step6">Asesoramiento Ambiental en Materia de Envases</a></li>
-            <li><a href="../../Ingema/services.php#demo-card--step7">Asesoramiento sobre Manejro de RR.SS</a></li>
+            <li><a href="/services.php#demo-card--step1">Estudios Ambientales</a></li>
+            <li><a href="/services.php#demo-card--step2">Asesoramiento en Materia Jurídica</a></li>
+            <li><a href="/services.php#demo-card--step3">Asesoramiento en Materia de emisiones a la atmosfera</a></li>
+            <li><a href="/services.php#demo-card--step4">Asesoramiento en Materia de Vertidos</a></li>
+            <li><a href="/services.php#demo-card--step5">Asesoramiento Ambiental en RR.SS.</a></li>
+            <li><a href="/services.php#demo-card--step6">Asesoramiento Ambiental en Materia de Envases</a></li>
+            <li><a href="/services.php#demo-card--step7">Asesoramiento sobre Manejro de RR.SS</a></li>
           </ul>
         </li>
         <li><a href="contact.php">Contacto</a></li>
